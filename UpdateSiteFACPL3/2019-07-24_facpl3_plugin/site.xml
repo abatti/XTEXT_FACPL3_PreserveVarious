@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="SiteForFACPL3_forAut">
+      SiteForFACPL3 for AUtomaton
+   </description>
+   <feature url="features/FeatureProj_1.0.0.201907241756.jar" id="FeatureProj" version="1.0.0.201907241756"/>
+</site>
